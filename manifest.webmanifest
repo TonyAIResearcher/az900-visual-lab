@@ -1,0 +1,31 @@
+{
+  "name": "AZ-900 Visual Lab",
+  "short_name": "AZ-900 Lab",
+  "description": "Learn Azure Fundamentals (AZ-900) by seeing and doing: 24 interactive visual modules, a guided tutor, mix-up drills, memory cards and a readiness report.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#060606",
+  "theme_color": "#060606",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

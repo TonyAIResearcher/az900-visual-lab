@@ -1,7 +1,7 @@
 {
   "name": "AZ-900 Visual Lab",
   "short_name": "AZ-900 Lab",
-  "description": "Learn Azure Fundamentals (AZ-900) by seeing and doing: 24 interactive visual modules, a guided tutor, mix-up drills, memory cards and a readiness report.",
+  "description": "Learn Azure Fundamentals (AZ-900) by seeing and doing: 44 plain-English lessons, 24 interactive visual modules, mix-up drills, memory cards and a readiness report. Free, no sign-up.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

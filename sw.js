@@ -1,7 +1,7 @@
 /* AZ-900 Visual Lab service worker: works offline after the first visit.
    Serves from the cache immediately, then refreshes the cache in the background,
    so a new version shows up the next time the page is opened. */
-const CACHE = 'az900-lab-v1';
+const CACHE = 'az900-lab-v2';
 const FILES = [
   "./",
   "index.html",
